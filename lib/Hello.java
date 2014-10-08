@@ -10,6 +10,6 @@ public class Hello
 			name = argv[0];
 		}
 
-		System.out.println( "Hello, " name + "!" );
+		System.out.println( "Hello, " + name + "!" );
 	}
 }
